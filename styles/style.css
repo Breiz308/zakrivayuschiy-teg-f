@@ -293,7 +293,7 @@
   font-family: var(--font-accent);
   font-size: 14px;
   line-height: 1.5;
-  text-transform: uppercase;*
+  text-transform: uppercase;
 }
 
 @media (width <= 375px) {
